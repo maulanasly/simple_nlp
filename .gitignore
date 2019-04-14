@@ -1,0 +1,8 @@
+.vscode
+*.pyc
+
+# data directory
+sample_data/
+postgres-data/
+ejabberd-mysql/
+data/
